@@ -1,6 +1,6 @@
 KERNEL_SOURCE=https://github.com/mylove90/Samsung_Mt6789_Kernel.git
 KERNEL_SOURCE_BRANCH=a155f
-KERNEL_CONFIG=a15_00_defconfig
+KERNEL_CONFIG=a15_defconfig
 KERNEL_IMAGE_NAME=Image
 ARCH=arm64
 
